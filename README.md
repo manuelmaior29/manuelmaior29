@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @manuelmaior29
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning Deep Learning Techniques in Computer Vision
+- 👨‍🎓 I'm studying Artificial Intelligence and Computer Vision at the Technical University of Cluj-Napoca, Romania 
+- 👀 I'm interested in Machine Learning
+- 🌱 I'm currently focused on researching training semantic segmentation using synthetic data
 
 <!---
 manuelmaior29/manuelmaior29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
