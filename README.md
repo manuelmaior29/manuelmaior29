@@ -9,7 +9,7 @@
 - Technologies & Tools: Unity, Unreal Engine
 - VCS: Git, Perforce
 - Database: MongoDB
-- Data Science & Machine Learning: NumPy, Pandas, PyTorch
+- Data Science & Machine Learning: NumPy, Pandas, PyTorch, Matplotlib
 - IDEs & Editors: Visual Studio, Visual Studio Code
 
 #### Social
