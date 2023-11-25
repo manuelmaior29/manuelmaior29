@@ -6,9 +6,9 @@
 
 #### Skills
 - Programming Languages: Python, C#, C/C++
-- Technologies & Tools: Unity, Unreal Engine
+- Technologies & Tools: Unity, Unreal Engine, Blender
 - VCS: Git, Perforce
-- Database: MongoDB
+- Database: MongoDB, SQL
 - Data Science & Machine Learning: NumPy, Pandas, PyTorch, Matplotlib
 - IDEs & Editors: Visual Studio, Visual Studio Code
 
