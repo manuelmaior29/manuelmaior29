@@ -13,7 +13,6 @@
 - IDEs & Editors: Visual Studio, Visual Studio Code
 
 #### Social
-[![Kaggle](https://img.shields.io/badge/Kaggle-manuelmaior-orange)](https://www.kaggle.com/manuelmaior)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ManuelRazvanMaior-blue)](https://www.linkedin.com/in/manuel-razvan-maior-2a119b161/)
 
 <!---
