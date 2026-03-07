@@ -12,17 +12,17 @@
 
 -----
 
-## About Me
+## me
 
-I’m a Software Engineer with a background in **Artificial Intelligence and Computer Vision**.
+i’m a Software Engineer with a background in **Artificial Intelligence and Computer Vision**.
 My work revolves around language models and server-side development.
 
-- 🧠 Passionate about **LLMs**, **semantic information retrieval**
-- 🌍 Based in Romania
+- 🧠 passionate about **LLMs**, **semantic information retrieval**
+- 🌍 based in Romania
 
 -----
 
-## 🛠 Skills & Tech Stack
+## 🛠 my toolbox
 
 **Languages**
 
@@ -34,6 +34,9 @@ My work revolves around language models and server-side development.
 ![AutoGen](https://img.shields.io/badge/AutoGen-412991?style=flat-square&logo=openai&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Containerization**
+![Docker]
 
 **Data Science**
 
