@@ -4,7 +4,7 @@
 
 **Software Engineer**
 
-*Passioned about intelligent systems that do things reliably :)*
+*I like building intelligent systems that do things reliably :)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ManuelRazvanMaior-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ManuelRazvanMaior)
 
