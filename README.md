@@ -22,7 +22,7 @@ My work revolves around language models and server-side development.
 
 -----
 
-## 🛠 my toolbox
+## my toolbox
 
 **Languages**
 
@@ -55,7 +55,7 @@ My work revolves around language models and server-side development.
 
 -----
 
-## 📊 GitHub Stats
+## my stats
 
 <div align="center">
 
@@ -67,7 +67,7 @@ My work revolves around language models and server-side development.
 
 -----
 
-#### Social
+#### my social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ManuelRazvanMaior-blue)](https://www.linkedin.com/in/manuel-razvan-maior-2a119b161)
 
 <!---
