@@ -6,7 +6,7 @@
 
 *I like building intelligent systems that do things reliably :)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ManuelRazvanMaior-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ManuelRazvanMaior)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ManuelRazvanMaior-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-razvan-maior-2a119b161)
 
 </div>
 
@@ -63,7 +63,7 @@ My work revolves around language models and server-side development.
 -----
 
 #### Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ManuelRazvanMaior-blue)](https://www.linkedin.com/in/manuel-razvan-maior-2a119b161/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ManuelRazvanMaior-blue)](https://www.linkedin.com/in/manuel-razvan-maior-2a119b161)
 
 <!---
 manuelmaior29/manuelmaior29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
