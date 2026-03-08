@@ -55,18 +55,6 @@ My work revolves around language models and server-side development.
 
 -----
 
-## my stats
-
-<div align="center">
-
-![Manu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelmaior29&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmaior29&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
------
-
 #### my social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ManuelRazvanMaior-blue)](https://www.linkedin.com/in/manuel-razvan-maior-2a119b161)
 
